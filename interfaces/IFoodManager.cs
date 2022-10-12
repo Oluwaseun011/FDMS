@@ -3,11 +3,11 @@ namespace FDM.interfaces
 {
     public interface IFoodManager
     {
-         public bool ICreateFood(string foodName, double price);
-         public void IUpdateFood(string foodName, double price);
-         public void IDeleteFood(Food food); //deleting whole instance of food object
-         public void IGetFood(string foodName);//get before deleting and delete
-         public void IGetFood(int refNumber);
+        public void CreateFood(string foodName, double price);
+        public void UpdateFood(string foodName, string newFoodName, double newPrice);
+        public void DeleteFood(int refNumber); //deleting whole instance of food object
+        public Food GetFood(string foodName);//get before deleting and delete
+        public Food GetFood(int refNumber);
 
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\FDM\bin\Debug\net6.0\FDM.exe
+C:\Users\pc\Desktop\FDM\bin\Debug\net6.0\FDM.deps.json
+C:\Users\pc\Desktop\FDM\bin\Debug\net6.0\FDM.runtimeconfig.json
+C:\Users\pc\Desktop\FDM\bin\Debug\net6.0\FDM.dll
+C:\Users\pc\Desktop\FDM\bin\Debug\net6.0\FDM.pdb
+C:\Users\pc\Desktop\FDM\obj\Debug\net6.0\FDM.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\FDM\obj\Debug\net6.0\FDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\FDM\obj\Debug\net6.0\FDM.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\FDM\obj\Debug\net6.0\FDM.AssemblyInfo.cs
+C:\Users\pc\Desktop\FDM\obj\Debug\net6.0\FDM.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\FDM\obj\Debug\net6.0\FDM.dll
+C:\Users\pc\Desktop\FDM\obj\Debug\net6.0\refint\FDM.dll
+C:\Users\pc\Desktop\FDM\obj\Debug\net6.0\FDM.pdb
+C:\Users\pc\Desktop\FDM\obj\Debug\net6.0\FDM.genruntimeconfig.cache
+C:\Users\pc\Desktop\FDM\obj\Debug\net6.0\ref\FDM.dll

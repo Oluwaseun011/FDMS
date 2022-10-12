@@ -1,8 +1,4 @@
-﻿/*
-CRUD___
-Business Logic_____
-hotel,bank,airline,
+﻿using FDM.menu;
 
-abstration abstract class and inheritrance
-polymophism 
-*/
+MM mm = new MM();
+mm.MainMenu();
